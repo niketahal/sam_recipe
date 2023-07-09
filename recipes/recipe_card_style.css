@@ -1,0 +1,48 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: brown;
+}
+
+img{
+    width: 500px;
+    height: 650px;
+    border-radius: 20px;
+}
+
+table{
+    padding: 0px 20px 0px 20px;
+    border: 1px ridge bisque;
+    border-radius: 20px;
+    border-width: 5px;
+}
+
+td{
+    padding: 0px 10px 0px 10px;
+}
+
+h3{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    color: sienna;
+    padding: 2px 0px 0px 5px ;
+}
+
+p{
+    line-height: 1.0;
+    padding: 2px 0px 0px 5px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: saddlebrown;
+}
+
+ul,ol{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: saddlebrown;
+    line-height: 1.0;
+}
